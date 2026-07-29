@@ -1,0 +1,4 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+LightGBM,0.7366,0.4673,0.4726,0.464
+Random Forest,0.7946,0.4479,0.411,0.4236
+KNN,0.8332,0.4196,0.3445,0.3338
